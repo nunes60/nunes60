@@ -40,6 +40,7 @@ Atualmente estudo na **Faculdade de Inovação e Tecnologia SENAC‑DF**, cursan
 
 - 🌐 HTML5
 - 🎨 CSS3
+- ✨ JavaScript
 - 🐍 Python
 
 **Em evolução**

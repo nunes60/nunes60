@@ -8,20 +8,16 @@ Atualmente estudo na **Faculdade de Inovação e Tecnologia SENAC‑DF**, cursan
 
 ## 🚀 Sobre mim
 
-- 💻 **Front-end:** grande interesse e experiência com **HTML** e **CSS**, com projetos já desenvolvidos nessas tecnologias.
+- 💻 **Front-end:** grande interesse e experiência com **HTML**, **CSS** e **JavaScript**, com projetos já desenvolvidos nessas tecnologias.
 - 🐍 **Back-end / Automação:** conhecimentos em **Python**, uma linguagem multipropósito que utilizo para estudos e projetos.
 
 ### 🌍 Idiomas
 
-<a href="#">
+<p>
   <img src="https://flagcdn.com/w40/gb.png" height="22" alt="Bandeira do Reino Unido" />
-</a>
-<a href="#">
   <img src="https://flagcdn.com/w40/fr.png" height="22" alt="Bandeira da França" />
-</a>
-<a href="#">
   <img src="https://flagcdn.com/w40/es.png" height="22" alt="Bandeira da Espanha" />
-</a>
+</p>
 
 **English (EN)** • **Français (FR)** • **Español (ES)**
 
@@ -48,7 +44,7 @@ Atualmente estudo na **Faculdade de Inovação e Tecnologia SENAC‑DF**, cursan
 
 **Em evolução**
 
-- ✨ JavaScript
+- ☕ Java
 - 🔧 Git & GitHub
 
 ---

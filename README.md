@@ -10,11 +10,12 @@ Atualmente estudo na **Faculdade de Inovação e Tecnologia SENAC‑DF**, cursan
 
 - 💻 **Front-end:** grande interesse e experiência com **HTML** e **CSS**, com projetos já desenvolvidos nessas tecnologias.
 - 🐍 **Back-end / Automação:** conhecimentos em **Python**, uma linguagem multipropósito que utilizo para estudos e projetos.
-- 🌍 **Idiomas:**
-  
-  ![Inglês](https://img.shields.io/badge/EN-Ingl%C3%AAs-0A66C2?style=for-the-badge)
-  ![Francês](https://img.shields.io/badge/FR-Franc%C3%AAs-0055A4?style=for-the-badge)
-  ![Espanhol](https://img.shields.io/badge/ES-Espanhol-AA151B?style=for-the-badge)
+
+### 🌍 Idiomas
+
+![Inglês](https://img.shields.io/badge/English-EN-012169?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Francês](https://img.shields.io/badge/Fran%C3%A7ais-FR-0055A4?style=for-the-badge&logo=googletranslate&logoColor=white)
+![Espanhol](https://img.shields.io/badge/Espa%C3%B1ol-ES-AA151B?style=for-the-badge&logo=googletranslate&logoColor=white)
 
 ---
 
@@ -46,8 +47,6 @@ Atualmente estudo na **Faculdade de Inovação e Tecnologia SENAC‑DF**, cursan
 
 ## 📊 Estatísticas do GitHub
 
-> Se os cards abaixo não carregarem, pode ser instabilidade/limite do serviço externo.
-
 ### 🧾 Resumo
 
 ![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nunes60&theme=github_dark)
@@ -55,11 +54,6 @@ Atualmente estudo na **Faculdade de Inovação e Tecnologia SENAC‑DF**, cursan
 ### 🔥 Sequência de contribuições
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nunes60&theme=github-dark&hide_border=true)
-
-### 📈 Stats (alternativa)
-
-![nunes60's Stats](https://github-readme-stats.vercel.app/api?username=nunes60&theme=gotham&show_icons=true&hide_border=true&count_private=true)
-![nunes60's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nunes60&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
 ---
 

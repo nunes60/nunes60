@@ -13,9 +13,11 @@ Atualmente estudo na **Faculdade de Inovação e Tecnologia SENAC‑DF**, cursan
 
 ### 🌍 Idiomas
 
-![Inglês](https://img.shields.io/badge/English-EN-012169?style=for-the-badge&logo=googletranslate&logoColor=white)
-![Francês](https://img.shields.io/badge/Fran%C3%A7ais-FR-0055A4?style=for-the-badge&logo=googletranslate&logoColor=white)
-![Espanhol](https://img.shields.io/badge/Espa%C3%B1ol-ES-AA151B?style=for-the-badge&logo=googletranslate&logoColor=white)
+![English](https://img.shields.io/badge/English-EN-0A66C2?style=for-the-badge&labelColor=0B1F3B&logo=flag&logoColor=white)
+![Français](https://img.shields.io/badge/Fran%C3%A7ais-FR-0055A4?style=for-the-badge&labelColor=0B1F3B&logo=flag&logoColor=white)
+![Español](https://img.shields.io/badge/Espa%C3%B1ol-ES-AA151B?style=for-the-badge&labelColor=0B1F3B&logo=flag&logoColor=white)
+
+> Se preferir, posso trocar por badges com bandeiras (UK/FR/ES) usando ícones personalizados.
 
 ---
 

@@ -70,4 +70,4 @@ Atualmente estudo na **Faculdade de Inovação e Tecnologia SENAC‑DF**, cursan
 ## 📫 Contato
 
 - GitHub: **[@nunes60](https://github.com/nunes60)**
-- Linkedln: **[@joaondss](https://www.linkedin.com/in/joaondss)**
+- LinkedIn: **[@joaondss](https://www.linkedin.com/in/joaondss)**

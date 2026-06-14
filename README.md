@@ -10,6 +10,7 @@ Atualmente estudo na **Faculdade de Inovação e Tecnologia SENAC‑DF**, cursan
 
 - 💻 **Front-end:** grande interesse e experiência com **HTML**, **CSS** e **JavaScript**, com projetos já desenvolvidos nessas tecnologias.
 - 🐍 **Back-end / Automação:** conhecimentos em **Python**, uma linguagem multipropósito que utilizo para estudos e projetos.
+- 📱 **Mobile:** expandindo os horizontes com o aprendizado focado em **Dart** e **Flutter** para o desenvolvimento de aplicações modernas e cross-platform.
 
 ### 🌍 Idiomas
 
@@ -29,8 +30,10 @@ Atualmente estudo na **Faculdade de Inovação e Tecnologia SENAC‑DF**, cursan
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -45,6 +48,8 @@ Atualmente estudo na **Faculdade de Inovação e Tecnologia SENAC‑DF**, cursan
 
 **Em evolução**
 
+- 🎯 Dart
+- 💙 Flutter
 - ☕ Java
 - 🔧 Git & GitHub
 
@@ -65,3 +70,4 @@ Atualmente estudo na **Faculdade de Inovação e Tecnologia SENAC‑DF**, cursan
 ## 📫 Contato
 
 - GitHub: **[@nunes60](https://github.com/nunes60)**
+- Linkedln: **[@joaondss](https://www.linkedin.com/in/joaondss)**
